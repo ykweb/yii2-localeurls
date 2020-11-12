@@ -248,7 +248,7 @@ class UrlManager extends BaseUrlManager
             if ($isLanguageGiven) {
                 unset($params[$this->languageParam]);
             }
-
+            $params['lang']=$language;
             $url = parent::createUrl($params);
 
             if (

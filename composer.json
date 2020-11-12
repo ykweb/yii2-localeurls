@@ -1,5 +1,5 @@
 {
-  "name": "codemix/yii2-localeurls",
+  "name": "ykweb/yii2-localeurls",
   "description": "Automatic locale/language management for URLs.",
   "keywords": ["yii2", "i18n", "locale"],
   "type": "yii2-extension",
